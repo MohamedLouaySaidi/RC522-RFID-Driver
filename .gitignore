@@ -1,0 +1,20 @@
+# Keil uVision user files
+*.uvoptx
+*.uvguix.*
+
+# Build outputs
+Objects/
+Listings/
+*.axf
+*.map
+*.htm
+*.lnp
+*.dep
+*.d
+*.o
+*.obj
+*.lst
+*.crf
+*.bak
+*.tmp
+*.iex
